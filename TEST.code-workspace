@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../TEST"
+		},
+		{
+			"path": "../projects123456"
+		},
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"webfreak.debug"
+		]
+	}
+}
